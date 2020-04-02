@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>Webproject</finalName>
+    <finalName>Addanki</finalName>
   </build>
 </project>
