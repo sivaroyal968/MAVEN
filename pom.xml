@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>Addanki</finalName>
+    <finalName>Addanki1</finalName>
   </build>
 </project>
